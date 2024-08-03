@@ -6,6 +6,7 @@ public class Arthematic2 {
 		int c;
 		c=a/b;
 		System.out.println("resulty is"+ c);
+		System.out.println("change done by krsek");
 		return c;
 	}
 	public int sub(int x, int y)
