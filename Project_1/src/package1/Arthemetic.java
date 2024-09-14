@@ -49,6 +49,7 @@ public class Arthemetic {
 		int mul2result=obj.mul2(subresult, 2);
 		obj.div(mul2result, 2);
 		
+		
 	}
 
 }
